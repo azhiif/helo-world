@@ -1,2 +1,5 @@
 # helo-world
-Sample for test
+
+Hi Humans!
+
+ashif here, am doing this for testing purpose 🙌
